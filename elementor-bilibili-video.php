@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Elementor Bilibili Video
-Plugin URI: https://nutswp.com/
+Plugin URI: https://github.com/SharonZang/elementor-bilibili-video
 Description: 为Elementor添加一个Bilibili视频元素，支持控制自动播放和视频尺寸。
 Version: 1.0
 Author: NUTSWP
